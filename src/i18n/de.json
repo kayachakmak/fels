@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "solution": "Lösungen",
+    "industries": "Branchen",
+    "automation": "Automatisierung",
+    "howItWorks": "Ablauf",
+    "cta": "Termin buchen"
+  },
+  "hero": {
+    "tag": "Studio für KI-Sprachagenten",
+    "line1": "STARK",
+    "line2": "WIE",
+    "line3": "FELS.",
+    "subheadline": "Fels Automation entwickelt KI-Sprachagenten, die eingehende und ausgehende Anrufe bearbeiten, Bestellungen aufnehmen, Anfragen beantworten und Ihre Abläufe reibungslos am Laufen halten – voll integriert in Ihre bestehenden Workflows.",
+    "ctaPrimary": "In Aktion erleben",
+    "ctaSecondary": "Funktionsweise ansehen"
+  },
+  "solution": {
+    "label": "Was wir bauen",
+    "title1": "Maßgeschneiderte KI-Agenten",
+    "title2": "Echte Prozesse",
+    "services": [
+      {
+        "title": "Inbound-Sprachagenten",
+        "description": "Jeder Anruf wird entgegengenommen. Jedes Detail erfasst. Unsere Inbound-KI-Agenten bearbeiten Anfragen, qualifizieren Leads, leiten Anrufer an die richtige Stelle weiter und protokollieren alles automatisch in Ihren Systemen – rund um die Uhr.",
+        "tags": ["Eingehende Anrufe", "Lead-Erfassung", "Smart Routing", "CRM-Synchronisation"]
+      },
+      {
+        "title": "Outbound-Sprachagenten",
+        "description": "Erreichen Sie an einem Tag mehr potenzielle Kunden als Ihr Team in einer Woche. Unsere Outbound-KI-Agenten initiieren Gespräche, qualifizieren das Interesse, bearbeiten Einwände und sichern Termine – ohne eine einzige manuelle Einwahl.",
+        "tags": ["Ausgehende Anrufe", "Vertriebsautomatisierung", "Terminbuchung", "Skalierbare Akquise"]
+      },
+      {
+        "title": "Anrufbasierte Workflow-Automatisierung",
+        "description": "Jeder Telefonanruf löst die richtige Aktion aus. Von Buchungen und Bestellungen bis hin zu Bestätigungen und Nachfassaktionen – Ihre Systeme aktualisieren sich automatisch, völlig ohne manuellen Aufwand dazwischen.",
+        "tags": ["Terminplanung", "Follow-ups", "Prozessautomatisierung", "System-Sync"]
+      }
+    ]
+  },
+  "stats": {
+    "simultaneous": "Gleichzeitige Anrufe",
+    "hires": "Erforderliche Neueinstellungen",
+    "availability": "Verfügbarkeit",
+    "custom": "Maßgeschneidert",
+    "testimonials": [
+      {
+        "quote": "Wir wussten nicht genau, was uns erwartet, als wir das KI-System in unseren Prozess zur Patientengewinnung integriert haben – aber die Ergebnisse sprachen für sich. Innerhalb weniger Monate sahen wir einen deutlichen Anstieg der Anfragen und Buchungen, ohne dass wir im Marketing selbst aktiv werden mussten. Die Automatisierung übernimmt Follow-ups und Outreach nahtlos, sodass unser Team sich auf das Wesentliche konzentrieren kann: unsere Patienten. Es war eine der besten Entscheidungen für das Wachstum unserer Klinik.",
+        "author": "— Melona Dent Clinic, Türkei"
+      },
+      {
+        "quote": "Wir hätten nie gedacht, dass wir tausende Kunden in einer einzigen Stunde kontaktieren könnten. Fels hat einen Agenten gebaut, der unsere gesamte Kommunikation transformiert hat – wir können heute 600 Anrufe gleichzeitig führen.",
+        "author": "— Aslıhan Ecza Deposu, Türkei"
+      },
+      {
+        "quote": "Seit der Integration des KI-Sprachagenten in unseren Vertriebsprozess lief die Bestellannahme bei Apotheken nie reibungsloser. Der Agent führt die Gespräche, erfasst Bestellungen präzise und erstellt automatisch die Versanddokumente. Das hat extrem viel manuelle Arbeit eliminiert. Wir konnten unsere Reichweite skalieren, ohne neues Personal einstellen zu müssen.",
+        "author": "— Meicomed, Türkei"
+      }
+    ]
+  },
+  "whyFels": {
+    "headline": "Warum Fels",
+    "tagline": "<g>Professionelle</g> Automatisierung für die hohen Anforderungen im B2B.",
+    "b2b": {
+      "title": "Entwickelt für B2B",
+      "description": "Keine generische Chatbot-Plattform. Jeder Agent, den wir bauen, ist für echte B2B-Prozesse konzipiert – Vertrieb, Logistik, Support."
+    },
+    "custom": {
+      "title": "Vollständig individualisiert",
+      "description": "Ihre Stimme, Ihre Logik, Ihre Regeln. Wir bauen Agenten, die genau so klingen und handeln, wie es Ihr Unternehmen erfordert."
+    },
+    "fast": {
+      "title": "Schnelle Bereitstellung",
+      "description": "Vom Kick-off bis zum Live-Betrieb in Wochen, nicht Monaten. Wir bewegen uns schnell, ohne Kompromisse bei der Qualität einzugehen."
+    },
+    "support": {
+      "title": "Kontinuierlicher Support",
+      "description": "Wir verschwinden nicht nach dem Launch. Überwachung, Iteration und ständige Verbesserung sind vom ersten Tag an inklusive."
+    },
+    "gdpr": {
+      "title": "DSGVO-konform",
+      "description": "Auf einer Infrastruktur aufgebaut, die europäische Datenschutzstandards berücksichtigt – damit Sie mit gutem Gefühl skalieren können."
+    }
+  },
+  "industries": {
+    "headline": "Geben Sie Ihrem Unternehmen eine Stimme, die skaliert, handelt und niemals schläft. <g>Ohne Grenzen.</g>",
+    "warehouses": {
+      "title": "Lager & Distributoren",
+      "description": "Erreichen Sie Ihr gesamtes B2B-Netzwerk in dem Moment, in dem neue Ware eintrifft – bevor es jemand anderes tut."
+    },
+    "healthcare": {
+      "title": "Gesundheitswesen & Kliniken",
+      "description": "Eine Welt, in der kein Patient einen Termin verpasst und jedes Follow-up tatsächlich stattfindet. Das ist kein Traum – das ist ein Agent."
+    },
+    "realEstate": {
+      "title": "Immobilien",
+      "description": "Wer zuerst anruft, gewinnt. Ab jetzt sind Sie immer der Erste – bei jedem Lead, in derselben Sekunde."
+    },
+    "homeServices": {
+      "title": "Handwerk & Haustechnik",
+      "description": "Vom Notfalleinsatz bis zur automatisierten Disposition – erfassen Sie jeden Auftrag, ohne ein 24/7-Dispo-Team einstellen zu müssen."
+    },
+    "legal": {
+      "title": "Kanzleien & Beratung",
+      "description": "Qualifizieren Sie Interessenten sofort und bewältigen Sie die Mandantenaufnahme im großen Stil. Lassen Sie die KI das Screening übernehmen."
+    },
+    "insurance": {
+      "title": "Versicherungen & Finanzen",
+      "description": "Verlängerungen, Erinnerungen, Qualifizierungen – in hoher Frequenz erledigt, mit der Sorgfalt, die Ihre Kunden erwarten."
+    }
+  },
+  "beyondVoice": {
+    "headline": "Wenn ein Mensch es am Computer erledigen kann, können wir es <g>automatisieren</g>.",
+    "body": "Sprachagenten sind erst der Anfang. Fels Automation baut End-to-End-Workflows, die repetitive und zeitraubende Aufgaben eliminieren, die Ihr Team bremsen.",
+    "dataEntry": {
+      "title": "Datenerfassung & Verarbeitung",
+      "description": "Formulare, Tabellen, Datenbanken – automatisch aktualisiert, ohne Übertragungsfehler."
+    },
+    "orderManagement": {
+      "title": "Bestell- & Rechnungsmanagement",
+      "description": "Vom Bestelleingang bis zur Bestätigung – vollständig ohne manuelle Eingriffe abgewickelt."
+    },
+    "crmWorkflows": {
+      "title": "CRM- & Follow-up-Workflows",
+      "description": "Leads verfolgt, Kontakte aktualisiert, Nachfassaktionen gesendet – alles auf Autopilot."
+    },
+    "reporting": {
+      "title": "Berichte & Analysen",
+      "description": "Tägliche, wöchentliche und monatliche Berichte werden automatisch generiert und zugestellt."
+    },
+    "transition": "Wir beginnen mit Ihrer Stimme. Dann automatisieren wir alles, was dahinter liegt."
+  },
+  "howItWorks": {
+    "headline": "Von der Idee zum Live-Betrieb",
+    "step1": {
+      "title": "Discovery",
+      "description": "Ihre Produkte, Ihre Kunden, Ihre Vision – wir verstehen Ihr Business, bevor wir mit dem Bau beginnen."
+    },
+    "step2": {
+      "title": "Entwicklung",
+      "description": "Wir entwerfen und entwickeln einen maßgeschneiderten KI-Sprachagenten und ein Automatisierungssystem – keine Standardlösung."
+    },
+    "step3": {
+      "title": "Integration",
+      "description": "Wir verbinden alles mit Ihren bestehenden Tools: CRM, ERP, Kalender oder jede andere Plattform, die Sie nutzen."
+    },
+    "step4": {
+      "title": "Launch & Optimierung",
+      "description": "Wir gehen live, überwachen die Performance und verbessern das System kontinuierlich basierend auf echten Ergebnissen."
+    }
+  },
+  "finalCta": {
+    "headline": "Die Unternehmen von <g>morgen</g> laufen auf Automatisierung.",
+    "subtext": "Die Frage ist nicht, ob KI Ihr Unternehmen verändern wird. Das tut sie bereits. Die Frage ist, ob Fels die Automatisierung zuerst für Sie baut – oder für Ihre Konkurrenz.",
+    "cta": "Kostenlose 30-Minuten-Session buchen"
+  },
+  "marquee": {
+    "voiceAgents": "KI-Sprachagenten",
+    "outboundSales": "Outbound Sales Calls",
+    "inboundHandling": "Inbound Bearbeitung",
+    "leadQualification": "Lead-Qualifizierung",
+    "warehouseOps": "Lagerlogistik",
+    "crmIntegration": "CRM-Integration",
+    "appointmentBooking": "Terminbuchung",
+    "b2bProspecting": "B2B-Akquise",
+    "callAutomation": "Anruf-Automatisierung",
+    "logistics": "Logistik & Spedition"
+  },
+  "footer": {
+    "tagline": "KI-Sprachagenten, die niemals schlafen.",
+    "rights": "Alle Rechte vorbehalten."
+  }
+}

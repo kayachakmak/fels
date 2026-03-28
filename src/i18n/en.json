@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "solution": "Solution",
+    "industries": "Industries",
+    "automation": "Automation",
+    "howItWorks": "How It Works",
+    "cta": "Book a Session"
+  },
+  "hero": {
+    "tag": "AI Voice Agent Studio",
+    "line1": "BUILT",
+    "line2": "LIKE",
+    "line3": "ROCK.",
+    "subheadline": "Fels Automation builds AI voice agents that handle incoming or outbound calls, capture orders, respond to enquiries, and keep your operations running smoothly — all within your existing workflows. "
+    ,
+    "ctaPrimary": "See it in Action",
+    "ctaSecondary": "See How It Works"
+  },
+"solution": {
+  "label": "What We Build",
+  "title1": "Custom AI  Agents",
+  "title2": "Real Operations",
+  "services": [
+    {
+      "title": "Inbound Voice Agents",
+      "description": "Every call answered. Every detail captured. Our inbound AI agents handle enquiries, qualify leads, route callers to the right place, and log everything into your systems — automatically, 24/7",
+      "tags": ["Inbound Calls", "Lead Capture", "Smart Routing", "CRM Sync"]
+    },
+    {
+      "title": "Outbound Voice Agents",
+      "description": "Reach more prospects in a day than your team could in a week. Our outbound AI agents initiate conversations, qualify interest, handle common objections, and secure meetings — all without a single manual dial.",
+      "tags": ["Outbound Calls", "Sales Automation", "Meeting Booking", "Scalable Outreach"]
+    },
+    {
+      "title": "Call-Based Workflow Automation",
+      "description": "Every phone call triggers the right action. From bookings and orders to confirmations and follow-ups — your systems stay updated automatically, with zero manual effort in between.",
+      "tags": ["Scheduling", "Follow-Ups", "Process Automation", "System Sync"]
+    }
+  ]
+},
+ "stats": {
+    "simultaneous": "Simultaneous Calls",
+    "hires": "New Hires Required",
+    "availability": "Availability",
+    "custom": "Custom-Built",
+    "testimonials": [
+      {
+        "quote": "We weren't sure what to expect when we first integrated the AI system into our patient acquisition process — but the results spoke for themselves. Within just a few months, we saw a noticeable increase in new patient inquiries and bookings, without us having to lift a finger on the marketing side. The automation handles the follow-ups and outreach seamlessly, so our team can stay focused on what we do best: taking care of our patients. Honestly, it's one of the best decisions we've made for the growth of our clinic.",
+        "author": "— Melona Dent Clinic, Türkiye"
+      },
+      {
+        "quote": "We never imagined we could reconnect with thousands of customers in a single hour. Fels built an agent that transformed how our entire operation communicates — we can make 600 simultaneous calls.",
+        "author": "— Aslıhan Ecza Deposu, Türkiye"
+      },
+      {
+        "quote": "Since integrating the AI calling agent into our sales process, taking orders from pharmacies has never been smoother. The agent handles the calls, captures the orders accurately, and generates the dispatch invoices automatically — cutting out a lot of the manual work our team used to deal with daily. It's streamlined our entire operation and let us scale outreach without adding headcount.",
+        "author":  "— Meicomed, Türkiye"
+      }
+    ]
+  },
+  "whyFels": {
+    "headline": "Why Fels",
+    "tagline": "<g>Professional-grade</g> automation designed for the high stakes of B2B.",
+"b2b": {
+    "title": "Built for B2B Ecosystems",
+    "description": "We don’t build toys. Our agents are engineered for complex professional workflows—handling sales, logistics, and high-level support with total precision."
+  },
+  "custom": {
+    "title": "Bespoke Intelligence",
+    "description": "Your brand’s DNA, digitized. We build custom agents that mirror your unique business logic, specific industry vocabulary, and exact brand tone."
+  },
+  "fast": {
+    "title": "Rapid Time-to-Value",
+    "description": "Skip the six-month dev cycle. Our streamlined deployment process takes you from blueprint to a live, professional agent in weeks, not months."
+  },
+  "support": {
+    "title": "Your Automation Partners",
+    "description": "We function as your outsourced automation department. From day one, we provide white-glove monitoring, constant iteration, and proactive scaling."
+  },
+  "gdpr": {
+    "title": "Privacy-First Architecture",
+    "description": "Built on GDPR-conscious infrastructure that respects data sovereignty—allowing you to scale your operations without compromising on compliance."
+  }  },
+  "industries": {
+    "headline": "Give your business a voice that scales, acts, and never sleeps. There is <g>no limit.</g>",
+    "warehouses": {
+      "title": "Warehouses & Distributors",
+      "description": "Imagine reaching your entire B2B network the moment new stock arrives — before anyone else does."
+    },
+    "healthcare": {
+      "title": "Healthcare & Clinics",
+      "description": "A world where no patient misses an appointment and every follow-up actually happens. That's not a dream — it's an agent."
+    },
+    "realEstate": {
+      "title": "Real Estate",
+      "description": "The agent who calls first wins. Now you're always first — on every lead, the moment it's ready."
+    },
+    "homeServices": {
+      "title": "Home Services & HVAC",
+      "description": "From emergency repair calls to automated dispatching—capture every job without hiring a 24/7 dispatch team."
+    },
+    "legal": {
+      "title": "Legal & Professional Services",
+      "description": "Instantly qualify prospects and handle intake at scale. Let your AI agent do the screening so you can focus on the law."
+    },
+    "insurance": {
+      "title": "Insurance & Finance",
+      "description": "Renewals, reminders, qualification — handled at volume, with the care your clients expect."
+    }
+  },
+  "beyondVoice": {
+    "headline": "If a human can do it on a computer, we can <g>automate</g> it.",
+    "body": "Voice agents are just the beginning. Fels Automation builds end-to-end workflows that eliminate the repetitive, time-consuming tasks that slow your team down.",
+    "dataEntry": {
+      "title": "Data Entry & Processing",
+      "description": "Forms, spreadsheets, databases — updated automatically, without errors."
+    },
+    "orderManagement": {
+      "title": "Order & Invoice Management",
+      "description": "From order intake to confirmation, fully handled without manual input."
+    },
+    "crmWorkflows": {
+      "title": "CRM & Follow-up Workflows",
+      "description": "Leads tracked, contacts updated, follow-ups sent — on autopilot."
+    },
+    "reporting": {
+      "title": "Reporting & Analytics",
+      "description": "Daily, weekly, monthly reports generated and delivered automatically."
+    },
+    "transition": "We start with your voice. Then we automate everything behind it."
+  },
+  "howItWorks": {
+    "headline": "From idea to live",
+    "step1": {
+      "title": "Discovery",
+      "description": "Your products, your customers, your vision — we understand it before we build anything."
+    },
+    "step2": {
+      "title": "Build",
+      "description": "We design and develop a fully custom AI voice agent and automation system — nothing off-the-shelf."
+    },
+    "step3": {
+      "title": "Integrate",
+      "description": "We connect everything to your existing tools: CRM, ERP, calendar, or any platform you use."
+    },
+    "step4": {
+      "title": " Launch & Optimize",
+      "description": "We go live, monitor performance, and continuously improve based on real results."
+    }
+  },
+  "finalCta": {
+    "headline": "The businesses of <g>tomorrow</g> run on automation.",
+    "subtext": "The question isn't whether AI will transform your business. It already is. The question is whether Fels builds your automation first — or your competitor's.",
+    "cta": "Book Your Free 30-Min Session"
+  },
+  "marquee": {
+    "voiceAgents": "AI Voice Agents",
+    "outboundSales": "Outbound Sales Calls",
+    "inboundHandling": "Inbound Handling",
+    "leadQualification": "Lead Qualification",
+    "warehouseOps": "Warehouse Operations",
+    "crmIntegration": "CRM Integration",
+    "appointmentBooking": "Appointment Booking",
+    "b2bProspecting": "B2B Prospecting",
+    "callAutomation": "Call Automation",
+    "logistics": "Logistics & Freight"
+  },
+  "footer": {
+    "tagline": "AI voice agents that never sleep.",
+    "rights": "All rights reserved."
+  }
+}

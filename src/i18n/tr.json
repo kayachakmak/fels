@@ -1,0 +1,171 @@
+{
+  "nav": {
+    "solution": "Çözüm",
+    "automation": "Otomasyon",
+    "industries": "Sektörler",
+    "howItWorks": "Nasıl Çalışır",
+    "cta": "Görüşme Ayarla"
+  },
+  "hero": {
+    "line1": "KAYA",
+    "line2": "GİBİ",
+    "line3": "SAĞLAM.",
+    "subheadline": "Fels Automation, gelen veya giden aramaları yöneten, sipariş alan, sorulara yanıt veren ve mevcut iş akışlarınız dahilinde operasyonlarınızı sorunsuz şekilde sürdüren yapay zeka ses ajanları geliştirir.",
+    "ctaPrimary": "Nasıl Çalıştığını Gör",
+    "ctaSecondary": "Nasıl Çalıştığını İncele"
+  },
+  "solution": {
+    "label": "Ne İnşa Ediyoruz",
+    "title1": "SİZE Özel Yapay Zeka Ajanları",
+    "title2": "Gerçek Operasyonlar",
+    "services": [
+      {
+        "title": "Çağrı Yanıtlayan Ajan",
+        "description": "Her arama yanıtlanır. Her detay yakalanır. Yapay Zeka ajanlarınız soruları yönetir, leadleri nitlendirir, arayanları doğru yere yönlendirir ve her şeyi sistemlerinize otomatik olarak kaydeder — 7/24, kesintisiz.",
+        "tags": ["Gelen Aramalar", "Lead Yakalama", "Akıllı Yönlendirme", "CRM Entegrasyonu"]
+      },
+      {
+        "title": "Arama Yapan Ajan",
+        "description": "Bir haftada ekibinizin yapabileceğinden daha fazla potansiyel müşteriye tek günde ulaşın. Yapay zeka ajanlarınız konuşmaları başlatır, ilgiyi değerlendirir, itirazları yönetir ve tek bir manuel arama yapmadan toplantıları güvence altına alır",
+        "tags": ["Giden Aramalar", "Satış Otomasyonu", "Toplantı Rezervasyonu", "Ölçeklenebilir Erişim"]
+      },
+      {
+        "title": "Aramaya Dayalı İş Akışı Otomasyonu",
+        "description": "Her arama somut bir işleme dönüşür. Sipariş, rezervasyon veya takip... Siz elinizi bile sürmeden tüm sistemleriniz kendi kendine güncellenir ve verileriniz her zaman güncel kalır.",
+        "tags": ["Planlama", "Takipler", "Süreç Otomasyonu", "Sistem Entegrasyonu"]
+      }
+    ]
+  },
+  "stats": {
+    "simultaneous": "Eş Zamanlı Arama",
+    "hires": "Yeni İşe Alım Gerekmiyor",
+    "availability": "Erişilebilirlik",
+    "custom": "Özel Geliştirilmiş",
+    "testimonials": [
+      {
+        "quote": "AI sistemini hasta kazanım sürecimize entegre ettiğimizde ne bekleyeceğimizden emin değildik — ancak sonuçlar kendiliğinden ortaya çıktı. Sadece birkaç ay içinde, pazarlama tarafında hiçbir çaba harcamadan yeni hasta sorguları ve rezervasyonlarında belirgin bir artış gördük. Otomasyon takipleri ve erişimi sorunsuz bir şekilde yönetiyor, böylece ekibimiz en iyi yaptığımız şeye odaklanabiliyor: hastalarımıza bakmak. Dürüstçe söylemek gerekirse, kliniğimizin büyümesi için aldığımız en iyi kararlardan biri.",
+        "author": "— Melona Dent Clinic, Türkiye"
+      },
+      {
+        "quote": "Tek saatte binlerce müşteriyle yeniden bağlantı kurabileceğimizi hiç düşünmemiştik. Fels, tüm operasyonumuzun iletişim biçimini dönüştüren bir ajan inşa etti — 600 eş zamanlı arama yapabiliyoruz.",
+        "author": "— Aslıhan Ecza Deposu, Türkiye"
+      },
+      {
+        "quote": "AI arama ajanını satış sürecimize entegre ettiğimizden beri eczanelerden sipariş almak hiç bu kadar kolay olmamıştı. Ajan aramaları yönetiyor, siparişleri doğru şekilde kaydediyor ve sevkiyat faturalarını otomatik olarak oluşturuyor — ekibimizin her gün uğraştığı manuel işlerin büyük bölümünü ortadan kaldırıyor. Tüm operasyonumuzu düzene soktu ve işe alım yapmadan erişimi ölçeklendirmemizi sağladı.",
+        "author": "— Meicomed, Türkiye"
+      }
+    ]
+  },
+  "whyFels": {
+    "headline": "Neden FELS",
+    "tagline": "B2B dünyasının yüksek standartları İçİn tasarlanmış <g>profesyonel</g> düzeyde otomasyon.",
+    "b2b": {
+      "title": "B2B Ekosistemleri İçin İnşa Edildi",
+      "description": "Oyuncak üretmiyoruz. Yapay zeka ajanlarımız; satış, lojistik ve üst düzey destek süreçlerini tam hassasiyetle yöneten karmaşık profesyonel iş akışları için tasarlandı."
+    },
+    "custom": {
+      "title": "Kişiye Özel Yapay Zeka",
+      "description": "Markanızın DNA'sını dijitalleştiriyoruz. Benzersiz iş mantığınızı, sektörel terminolojinizi ve tam marka tonunuzu yansıtan özel yapay zeka ajanları geliştiriyoruz."
+    },
+    "fast": {
+      "title": "Hızlı Değer Üretimi",
+      "description": "Altı aylık geliştirme süreçlerini unutun. Optimize edilmiş kurulum sürecimizle, taslaktan canlı profesyonel bir yapay zeka ajanına geçişinizi aylar değil, haftalar içinde gerçekleştiriyoruz."
+    },
+    "support": {
+      "title": "Otomasyon Ortaklarınız",
+      "description": "Dış kaynaklı otomasyon departmanınız gibi çalışıyoruz. İlk günden itibaren titiz izleme, sürekli iyileştirme ve proaktif ölçeklendirme sağlıyoruz."
+    },
+    "gdpr": {
+      "title": "Gizlilik Odaklı Mimari",
+      "description": "KVKK uyumlu altyapı üzerine inşa edilmiştir; uyumluluktan ödün vermeden operasyonlarınızı ölçeklendirmenize olanak tanır."
+    }
+  },
+  "industries": {
+    "headline": "İşletmenİze, ölçeklenen harekete geçen ve asla uyumayan bİr ses verİn. <g>Sınır yok.</g>",
+    "warehouses": {
+      "title": "Depolar & Distribütörler",
+      "description": "Yeni stok geldiği anda tüm B2B ağınıza ulaşmayı hayal edin — herkesten önce."
+    },
+    "healthcare": {
+      "title": "Sağlık & Klinikler",
+      "description": "Hiçbir hastanın randevusunu kaçırmadığı ve her takibin gerçekten yapıldığı bir dünya. Bu bir hayal değil — bu bir ajan."
+    },
+    "realEstate": {
+      "title": "Gayrimenkul",
+      "description": "İlk arayan ajan kazanır. Artık her zaman ilk siz oluyorsunuz — her leadde, hazır olduğu anda."
+    },
+    "homeServices": {
+      "title": "Ev Hizmetleri & HVAC",
+      "description": "Acil tamir aramalarından otomatik iş atamasına kadar — 7/24 ekip işe almadan her işi yakalayın."
+    },
+    "legal": {
+      "title": "Hukuk & Profesyonel Hizmetler",
+      "description": "Potansiyel müşterileri anında nitelendirin ve kabul işlemlerini ölçekli şekilde yönetin. yapay zeka ajanınızın ön elemeyi yapmasına izin verin, siz hukuka odaklanın."
+    },
+    "insurance": {
+      "title": "Sigorta & Finans",
+      "description": "Yenilemeler, hatırlatmalar, nitelendirme — müşterilerinizin beklediği özenle, yüksek hacimde yönetilir."
+    }
+  },
+  "beyondVoice": {
+    "headline": "Bir iş bilgisayar ile yapılıyorsa, <g>otomatikleştirebiliriz</g>.",
+    "body": "Ses ajanları sadece başlangıç. Fels Automation, ekibinizi yavaşlatan tekrarlı, zaman alıcı görevleri ortadan kaldıran uçtan uca iş akışları inşa eder.",
+    "dataEntry": {
+      "title": "Veri Girişi & İşleme",
+      "description": "Formlar, elektronik tablolar, veritabanları — hatasız, otomatik olarak güncellenir."
+    },
+    "orderManagement": {
+      "title": "Sipariş & Fatura Yönetimi",
+      "description": "Sipariş alımından onaya kadar, manuel giriş olmadan tamamen yönetilir."
+    },
+    "crmWorkflows": {
+      "title": "CRM & Takip İş Akışları",
+      "description": "Leadler takip edilir, kişiler güncellenir, takipler gönderilir — otopilotta."
+    },
+    "reporting": {
+      "title": "Raporlama & Analitik",
+      "description": "Günlük, haftalık, aylık raporlar otomatik olarak oluşturulur ve iletilir."
+    },
+    "transition": "SESİNİZ İLE başlıyoruz. Sonra arkasındaki her şeyİ otomatİkleştİrİyoruz."
+  },
+  "howItWorks": {
+    "headline": "FİKİRDEN canlıya",
+    "step1": {
+      "title": "Keşif",
+      "description": "Ürünleriniz, müşterileriniz, vizyonunuz — hiçbir şey inşa etmeden önce anlıyoruz."
+    },
+    "step2": {
+      "title": "Geliştirme",
+      "description": "Tamamen özel bir apay zeka ses ajanı ve otomasyon sistemi tasarlayıp geliştiriyoruz — hazır şablonlar yok."
+    },
+    "step3": {
+      "title": "Entegrasyon",
+      "description": "Her şeyi mevcut araçlarınıza bağlıyoruz: CRM, ERP, takvim veya kullandığınız herhangi bir platform."
+    },
+    "step4": {
+      "title": "Yayına Alma & Optimizasyon",
+      "description": "Canlıya geçiyor, performansı izliyor ve gerçek sonuçlara göre sürekli iyileştiriyoruz."
+    }
+  },
+  "finalCta": {
+    "headline": "Yarının işletmeleri yapay zeka <g>otomasyonu</g> üzerine kurulu.",
+    "subtext": "Soru, yapay zekanın işinizi dönüştürüp dönüştürmeyeceği değil. Zaten dönüştürüyor. Soru, Fels'in önce sizinkini mi, yoksa rakibinizinkini mi inşa edeceği.",
+    "cta": "Ücretsiz 30 Dakikalık Görüşmenizi Ayarlayın"
+  },
+  "marquee": {
+    "voiceAgents": "Yapay Zeka Ses Ajanları",
+    "outboundSales": "Giden Satış Aramaları",
+    "inboundHandling": "Gelen Çağrı Yönetimi",
+    "leadQualification": "Lead Nitelendirme",
+    "warehouseOps": "Depo Operasyonları",
+    "crmIntegration": "CRM Entegrasyonu",
+    "appointmentBooking": "Randevu Rezervasyonu",
+    "b2bProspecting": "B2B Potansiyel Müşteri Arama",
+    "callAutomation": "Arama Otomasyonu",
+    "logistics": "Lojistik & Nakliye"
+  },
+  "footer": {
+    "tagline": "Asla uyumayan yapay zeka ses ajanları.",
+    "rights": "Tüm hakları saklıdır."
+  }
+}
