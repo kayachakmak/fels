@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Page Not Found — Fels Automation</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Mono:wght@400&family=Instrument+Sans:wght@400;500&display=swap" rel="stylesheet" />
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      body {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #0a0a0a;
+        color: #f0ede6;
+        font-family: 'Instrument Sans', 'Inter', sans-serif;
+        -webkit-font-smoothing: antialiased;
+      }
+      .container { text-align: center; padding: 2rem; }
+      .code {
+        font-family: 'Bebas Neue', sans-serif;
+        font-size: clamp(5rem, 15vw, 10rem);
+        letter-spacing: 0.06em;
+        line-height: 1;
+        background: linear-gradient(90deg, #aa00ff 0%, #4d65ff 50%, #0088ff 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+      }
+      .message {
+        margin-top: 1rem;
+        font-family: 'DM Mono', monospace;
+        font-size: 0.85rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: rgba(240, 237, 230, 0.45);
+      }
+      .back {
+        display: inline-flex;
+        align-items: center;
+        margin-top: 2.5rem;
+        padding: 0.75rem 2rem;
+        font-family: 'DM Mono', monospace;
+        font-size: 0.85rem;
+        letter-spacing: 0.06em;
+        color: #0a0a0a;
+        background: #aa00ff;
+        text-decoration: none;
+        clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 0 100%);
+        transition: background 0.2s;
+      }
+      .back:hover { background: #c44dff; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="code">404</div>
+      <p class="message">This page doesn't exist</p>
+      <a href="/" class="back">Back to Home &rarr;</a>
+    </div>
+  </body>
+</html>
