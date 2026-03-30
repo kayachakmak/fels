@@ -64,7 +64,7 @@
       "description": "Oyuncak üretmiyoruz. Yapay zeka ajanlarımız; satış, lojistik ve üst düzey destek süreçlerini tam hassasiyetle yöneten karmaşık profesyonel iş akışları için tasarlandı."
     },
     "custom": {
-      "title": "Kişiye Özel Yapay Zeka",
+      "title": "İşletmeye Özel Yapay Zeka",
       "description": "Markanızın DNA'sını dijitalleştiriyoruz. Benzersiz iş mantığınızı, sektörel terminolojinizi ve tam marka tonunuzu yansıtan özel yapay zeka ajanları geliştiriyoruz."
     },
     "fast": {
@@ -136,7 +136,7 @@
     },
     "step2": {
       "title": "Geliştirme",
-      "description": "Tamamen özel bir apay zeka ses ajanı ve otomasyon sistemi tasarlayıp geliştiriyoruz — hazır şablonlar yok."
+      "description": "Tamamen özel bir yapay zeka ses ajanı ve otomasyon sistemi tasarlayıp geliştiriyoruz — hazır şablonlar yok."
     },
     "step3": {
       "title": "Entegrasyon",
