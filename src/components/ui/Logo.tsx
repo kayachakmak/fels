@@ -1,7 +1,25 @@
-export function Logo({ className = '' }: { className?: string }) {
+interface LogoProps {
+  className?: string
+  pulsating?: boolean
+  onClick?: () => void
+}
+
+export function Logo({ className = '', pulsating = false, onClick }: LogoProps) {
   return (
-    <a href="#" className={`flex items-center gap-2.5 ${className}`}>
-      <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <a
+      href="#"
+      className={`flex items-center gap-2.5 ${onClick ? 'cursor-pointer' : ''} ${className}`}
+      onClick={onClick ? (e) => { e.preventDefault(); onClick() } : undefined}
+    >
+      <svg
+        width="32"
+        height="32"
+        viewBox="0 0 32 32"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        className={pulsating ? 'animate-logo-pulse' : ''}
+        style={{ transformOrigin: 'center' }}
+      >
         <defs>
           <radialGradient id="rainbow-radial" cx="50%" cy="50%" r="50%">
             <stop offset="0%" stopColor="#ffdd00" />
