@@ -3,7 +3,6 @@ import { Footer } from './components/layout/Footer'
 import { Hero } from './components/sections/Hero'
 import { Marquee } from './components/sections/Marquee'
 import { Solution } from './components/sections/Solution'
-import { Stats } from './components/sections/Stats'
 import { Industries } from './components/sections/Industries'
 import { BeyondVoice } from './components/sections/BeyondVoice'
 import { WhyFels } from './components/sections/WhyFels'
@@ -19,7 +18,6 @@ export function App() {
         <Marquee />
         <Solution />
         <BeyondVoice />
-        <Stats />
         <WhyFels />
         <Industries />
         <HowItWorks />
